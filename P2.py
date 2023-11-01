@@ -1,4 +1,4 @@
-#If there is vowel print it contains vowel or print it doesn't contain any vowels ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+#If there is vowel print it contains vowel or print it doesn't contain any vowels 
 str = input("Enter the String : ")
 Vowel="aeiouAEIOU"
 v=False
